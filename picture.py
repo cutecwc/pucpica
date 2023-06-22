@@ -4,6 +4,7 @@
 # python -m  virtualenv myenv
 # 进入虚拟环境
 # source myenv/bin/activate
+# python picture.py
 # 退出虚拟环境
 # deactivate
 
@@ -11,7 +12,7 @@
 # pip install pillow-avif-plugin
 # pip install Pillow
 
-TARGET_PATH = 'y23m6'
+TARGET_PATH = 'ChangePools'
 
 from PIL import Image
 import pillow_avif
